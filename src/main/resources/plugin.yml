@@ -1,0 +1,6 @@
+name: QuitClean
+version: ${project.version}
+main: com.github.elic0de.quitclean.QuitClean
+api-version: 1.18
+authors: [ Elic0de ]
+description: ログアウトするたびにインベントリを削除
